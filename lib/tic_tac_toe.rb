@@ -68,7 +68,7 @@ end
    end
 
    def over?
-    draw? || full?
+    draw? || won?
      end
 
      def winner
